@@ -1,0 +1,4 @@
+interface:
+  display_name: "Science Popularization Push Articles"
+  short_description: "Evidence-based science articles and WeChat-style layouts"
+  default_prompt: "Create or revise a verified science-popularization article with source notes and an image-rich DOCX/PDF layout."
